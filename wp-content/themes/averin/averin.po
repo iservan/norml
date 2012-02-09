@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Abvhin <abhin_sh@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: header.php:6
+msgid " "
+msgstr ""
+
+#. Text in echo
+#: single.php:92
+#: Helper.php:453
+msgid " ago"
+msgstr ""
+
+#. Text in function
+#: misc.php:66
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: misc.php:68
+#: misc.php:99
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: header.php:6
+msgid "-"
+msgstr ""
+
+#. Text in echo
+#: Helper.php:362
+#: Helper.php:494
+#: Helper.php:736
+#: author.php:94
+msgid "<h4>No posts yet !</h4>"
+msgstr ""
+
+#. Text in function
+#: comments.php:56
+msgid "<h6 class=\"custom-font\">Leave a Reply to %s</h6>"
+msgstr ""
+
+#. Text in echo
+#: index.php:88
+#: category.php:75
+#: tag.php:76
+#: archive.php:76
+#: search.php:108
+msgid "<p class=\"notice-box\">No posts yet !</p>"
+msgstr ""
+
+#. Text in function
+#: comments.php:56
+msgid "<span class=\"custom-font heading\">Leave A Response </span>"
+msgstr ""
+
+#. Text in echo
+#: single.php:112
+msgid "About the "
+msgstr ""
+
+#. Text in echo
+#: ads300.php:33
+msgid "Ad Image URL"
+msgstr ""
+
+#. Text in echo
+#: ads300.php:38
+msgid "Ad Link"
+msgstr ""
+
+#. Text in function
+#: facebook-like.php:1
+msgid "Add facebook Like box to your sidebar."
+msgstr ""
+
+#. Text in echo
+#: facebook-like.php:49
+msgid "Add facebook page link"
+msgstr ""
+
+#. Text in echo
+#: author.php:28
+msgid "All posts from "
+msgstr ""
+
+#. Text in echo
+#: header.php:6
+msgid "Browsing the Category "
+msgstr ""
+
+#. Text in echo
+#: paypal.php:46
+msgid "Button Title"
+msgstr ""
+
+#. Text in function
+#: comments.php:56
+msgid "Cancel reply"
+msgstr ""
+
+#. Text in function
+#: ads125.php:1
+msgid "Create Ad 125x125"
+msgstr ""
+
+#. Text in function
+#: ads300.php:1
+msgid "Create Ad 300x250"
+msgstr ""
+
+#. Text in function
+#: contact-form.php:1
+msgid "Create Quick Contact Form"
+msgstr ""
+
+#. Text in function
+#: ads125.php:1
+msgid "Create a ad slot with dimension 125 by 125px."
+msgstr ""
+
+#. Text in function
+#: ads300.php:1
+msgid "Create a ad slot with dimension 300 by 300px."
+msgstr ""
+
+#. Text in function
+#: paypal.php:1
+msgid "Create a paypal payment button."
+msgstr ""
+
+#. Text in function
+#: contact-form.php:1
+msgid "Create a quick contact form."
+msgstr ""
+
+#. Text in function
+#: video.php:1
+msgid "Create a video widget."
+msgstr ""
+
+#. Text in function
+#: custombox.php:1
+msgid "CustomBox"
+msgstr ""
+
+#. Text in echo
+#: twitrsscount.php:54
+msgid "Default RSS Count"
+msgstr ""
+
+#. Text in function
+#: flickr-widget.php:1
+msgid "Display pictures from flickr feed."
+msgstr ""
+
+#. Text in echo
+#: contact-form.php:37
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: paypal.php:41
+msgid "Enter Amount($)"
+msgstr ""
+
+#. Text in echo
+#: paypal.php:36
+msgid "Enter Paypal ID"
+msgstr ""
+
+#. Text in echo
+#: twitrsscount.php:44
+msgid "Enter Twitter username"
+msgstr ""
+
+#. Text in function
+#: facebook-like.php:1
+msgid "Facebook Like Box"
+msgstr ""
+
+#. Text in echo
+#: contact-set.php:56
+msgid "Facebook profile link"
+msgstr ""
+
+#. Text in echo
+#: feedburner-subscribe.php:39
+#: twitrsscount.php:49
+msgid "Feedburner ID"
+msgstr ""
+
+#. Text in function
+#: feedburner-subscribe.php:1
+msgid "FeedburnerSubscribe"
+msgstr ""
+
+#. Text in echo
+#: flickr-widget.php:34
+msgid "Flickr Profile ID"
+msgstr ""
+
+#. Text in function
+#: flickr-widget.php:1
+msgid "Flickr Widget"
+msgstr ""
+
+#. Text in echo
+#: custombox.php:38
+msgid "Intro Image Link: ( if empty image not will appear )"
+msgstr ""
+
+#. Text in echo
+#: custombox.php:49
+msgid "Link:( if empty link will not appear )"
+msgstr ""
+
+#. Text in function
+#: comments.php:56
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: contact-set.php:61
+msgid "Mail Link"
+msgstr ""
+
+#. Text in echo
+#: flickr-widget.php:38
+msgid "No of Photos to display"
+msgstr ""
+
+#. Text in echo
+#: popular-posts.php:33
+#: view-posts.php:33
+msgid "Number of posts to display"
+msgstr ""
+
+#. Text in function
+#: paypal.php:1
+msgid "Paypal Button"
+msgstr ""
+
+#. Text in echo
+#: misc.php:99
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: popular-posts.php:1
+msgid "Popular Posts"
+msgstr ""
+
+#. Text in function
+#: comments.php:56
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: twitrsscount.php:1
+msgid "RSS and twitter count"
+msgstr ""
+
+#. Text in echo
+#: search.php:53
+msgid "Search Results"
+msgstr ""
+
+#. Text in echo
+#: video.php:58
+msgid "Set Height:"
+msgstr ""
+
+#. Text in echo
+#: video.php:53
+msgid "Set Width:"
+msgstr ""
+
+#. Text in echo
+#: video.php:48
+msgid "Short Description:"
+msgstr ""
+
+#. Text in echo
+#: facebook-like.php:64
+msgid "Show Head"
+msgstr ""
+
+#. Text in echo
+#: facebook-like.php:69
+msgid "Show Stream"
+msgstr ""
+
+#. Text in echo
+#: facebook-like.php:59
+msgid "Show friends"
+msgstr ""
+
+#. Text in function
+#: popular-posts.php:1
+#: view-posts.php:1
+msgid "Show popular posts."
+msgstr ""
+
+#. Text in function
+#: contact-set.php:1
+msgid "Show rss, twitter, fb and mail icons."
+msgstr ""
+
+#. Text in function
+#: twitrsscount.php:1
+msgid "Show total rss subscribers and twitter followers."
+msgstr ""
+
+#. Text in function
+#: contact-set.php:1
+msgid "Social Links"
+msgstr ""
+
+#. Text in echo
+#: feedburner-subscribe.php:44
+#: custombox.php:44
+msgid "Text"
+msgstr ""
+
+#. Text in echo
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: contact-set.php:44
+#: popular-posts.php:27
+#: contact-form.php:32
+#: view-posts.php:27
+#: ads300.php:28
+#: facebook-like.php:44
+#: flickr-widget.php:30
+#: ads125.php:34
+#: twitrsscount.php:39
+#: paypal.php:51
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: feedburner-subscribe.php:34
+#: custombox.php:34
+#: video.php:36
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: contact-set.php:51
+msgid "Twitter Profile Link"
+msgstr ""
+
+#. Text in function
+#: feedburner-subscribe.php:1
+#: custombox.php:1
+msgid "Usage: Megamenu, sidebars and dynamic widgetized areas . Create a custom text box with read more link."
+msgstr ""
+
+#. Text in function
+#: video.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in echo
+#: video.php:42
+msgid "Video Code (280px max) "
+msgstr ""
+
+#. Text in function
+#: view-posts.php:1
+msgid "Viewed Posts"
+msgstr ""
+
+#. Text in echo
+#: facebook-like.php:54
+msgid "Width"
+msgstr ""
+
+#. Text in function
+#: comments.php:56
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in echo
+#: misc.php:62
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: elements.php:131
+#: elements.php:203
+#: elements.php:176
+#: elements.php:241
+msgid "desc"
+msgstr ""
+
+#. Text in function
+#: elements.php:250
+msgid "description"
+msgstr ""
+
+#. Text in function
+#: header.php:6
+#: elements.php:104
+#: elements.php:159
+#: elements.php:137
+#: elements.php:147
+#: elements.php:199
+#: elements.php:221
+#: elements.php:262
+msgid "name"
+msgstr ""
+

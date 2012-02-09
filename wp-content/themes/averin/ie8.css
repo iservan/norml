@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+
+.footer-wrap .feedburner-widget form { height:30px!important; }
+#comments_template , #comments { zoom:1; position:relative; }

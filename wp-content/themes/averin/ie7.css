@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+#topmenu li .sub-menu {  }
+
+#topmenu li {zoom:1;}
+#topmenu ul  { zoom:1; } 
+.top-ads-section , .adsense-code { zoom:1; }
+#top-bar { position:relative; z-index:2!important; }
+#logo { }
+
+.commentlist .children>li { list-style:none!important; }
+
+#comments_template form input[type=submit] {
+padding:11px 16px;
+
+}
+
+#nivo-slider , .quartz-slider { zoom:1; position:relative; }
